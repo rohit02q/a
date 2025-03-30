@@ -1,0 +1,106 @@
+*{
+  padding: 5px;
+  margin:;
+  font-family: 10px;
+  border-radius:20px;
+  min-height: 10px;
+  display:block-inline;
+}
+body{
+  background-color:black;
+}
+
+i{
+  color:black;}
+.name{
+  outline-color: black;
+  border-color: black;
+}
+.password{
+  outline-color: black;
+  border-color: black;
+}
+.school{
+  outline-color: black;
+  
+}
+.me{
+  background-color:#cccccc;
+  padding:1px;
+  margin: 20px;
+  padding-bottom: 25px;
+  border-color:;
+  border:5px solid white;
+}
+.me:hover{
+  background-color: ;
+  
+}
+#form{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px
+}
+.input-name{
+  font-size:20px;
+}
+.email{
+  height:25px;
+  outline-color: black;
+  border-color:black;
+}
+.name{
+  margin: 1px;
+}
+#gender{
+  margin-left: 13px;
+  font-size:20px;
+  display: inline;
+}
+.class{
+  margin: 15px;
+  display:inline;
+  width: 100℅;
+  margin-bottom: 15px;
+  
+}
+.category{
+  padding-left: 35px;
+  display: inline;
+}
+.state{
+  margin-top: 25px;
+  border:1px light #cccccc;
+  padding: 15px;
+  display: inline
+}
+.district{
+  outline-color: black;
+  border-color:black;
+  display: inline;
+  padding-top: 9px;
+}
+.checkbox{
+  font-size:25px;
+}
+.button{
+  text-align: center;
+  margin-top: 4px;
+  color:brown;
+  width:300px;
+  height:%;
+  margin-left:px;
+  margin-right:px;
+  padding-right:0px;
+  padding-left:0px;
+  font-size:25px;
+  
+  
+}
+.button:hover{
+  color:green;
+}
+
+
+  
